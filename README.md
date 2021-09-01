@@ -8,7 +8,7 @@
 - [Installation](#installation-)
 - [Usage](#usage-)
 - [Technologies](#technologies-)
-- [Screen shots](#screen-shots-)
+- [Demo Videos](#demo-videos-)
 - [Credits](#credits-)
 - [Contributions](#contributions-)
 - [Questions](#questions-)
@@ -58,10 +58,13 @@ After installation users need to create a database by running `mysql -u root -pa
 -  Mysql2 npm package.
 -  Dotenv.
 
-## Screen shots : 
-### Here are screen shots of my deployed Back-End E-Commerce RESTfull API App!![ScreenShot](a;sldjk,askljd)![ScreenShot](skldjaf;sdjk)![ScreenShot](alkdsjf;adlsjkf;lk)![ScreenShot]()
+## Demo Videos : 
+### Here are demo videos of my deployed Back-End E-Commerce RESTfull API App      
+![A demo video #1](./Assets/orm1.gif)
 
-[The Demo Video](s;dljfa;asdjk)
+
+![A demo video #2](./Assets/orm2.gif)
+
 
 ## Credits :
 
